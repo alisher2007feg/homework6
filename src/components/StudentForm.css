@@ -1,0 +1,8 @@
+.col-lg-4 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 15px !important;
+  padding: 10px 0px 15px;
+  color: white !important;
+}
